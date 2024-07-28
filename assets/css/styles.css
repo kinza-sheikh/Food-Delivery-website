@@ -140,6 +140,7 @@ html::-webkit-scrollbar{
 .menu h3{
     text-align: center;
     color: #e53937;
+    margin-top: -1rem;
     /* width: 176px; */
 }
 .menu h2{
@@ -176,6 +177,7 @@ html::-webkit-scrollbar{
     text-align: center;
     font-size: 30px;
     font-weight: 700;
+    margin-top: -9rem;
 }
 .heading span{
     color: #e53937;
@@ -208,6 +210,7 @@ html::-webkit-scrollbar{
 }
 .review .card{
     border: 1px solid #e53937;
+    margin-top: -1rem;
 }
 .review h3{
     font-size: 16px;
@@ -272,6 +275,7 @@ html::-webkit-scrollbar{
 #footer .f-logo img{
     width: 250px;
     cursor: pointer;
+    margin-top: -4rem;
 }
 .f-content i{
     padding: 10px;
