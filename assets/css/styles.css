@@ -6,7 +6,7 @@
     scroll-behavior: smooth;
     font-family: 'Josefin sans',sans-serif;
 }
-html::-webkit-scrollbar-track{
+/* html::-webkit-scrollbar-track{
     background-color: transparent;
 }
 html::-webkit-scrollbar-thumb{
@@ -15,7 +15,12 @@ html::-webkit-scrollbar-thumb{
 }
 html::-webkit-scrollbar{
     width: 10px;
+} */
+html {
+    scrollbar-width: thick;
+    scrollbar-color: #e53937 transparent; 
 }
+
 
 /* NAVBAR START */
 #navbar{
